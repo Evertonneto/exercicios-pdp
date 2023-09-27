@@ -1,1 +1,1 @@
-# exercicios-pdp
+# Exercícios Paradigmas de Linguagens de Programação
